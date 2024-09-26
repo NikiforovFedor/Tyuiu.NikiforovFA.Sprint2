@@ -9,7 +9,7 @@ namespace Tyuiu.NikiforovFA.Sprint2.Task3.V5.Lib
             double y = 0;
             if (x > 1)
             {
-                y =  (Math.Round(x - Math.Pow((x + 1) / (x - 1), 2), 3));
+                y =  (Math.Round(x - Math.Pow((x + 1) / (x - 1), x), 3));
             }
             else if (x == 0) 
             {
