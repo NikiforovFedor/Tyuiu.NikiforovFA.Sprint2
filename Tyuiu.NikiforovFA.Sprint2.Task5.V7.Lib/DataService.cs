@@ -13,18 +13,18 @@ namespace Tyuiu.NikiforovFA.Sprint2.Task5.V7.Lib
             }
             switch (n)
             {
-                case 0: m = "Январь"; break;
-                case 1: m = "Февраль"; break;
-                case 2: m = "Март"; break;
-                case 3: m = "Апрель"; break;
-                case 4: m = "Май"; break;
-                case 5: m = "Июнь"; break;
-                case 6: m = "Июль"; break;
-                case 7: m = "Август"; break;
-                case 8: m = "Сентябрь"; break;
-                case 9: m = "Октябрь"; break;
-                case 10: m = "Ноябрь"; break;
-                case 11: m = "Декабрь"; break;
+                case 0: m = "январь"; break;
+                case 1: m = "февраль"; break;
+                case 2: m = "март"; break;
+                case 3: m = "апрель"; break;
+                case 4: m = "май"; break;
+                case 5: m = "июнь"; break;
+                case 6: m = "июль"; break;
+                case 7: m = "август"; break;
+                case 8: m = "сентябрь"; break;
+                case 9: m = "октябрь"; break;
+                case 10: m = "ноябрь"; break;
+                case 11: m = "декабрь"; break;
             }
             return m;
 
