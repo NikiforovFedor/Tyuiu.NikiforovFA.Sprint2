@@ -9,7 +9,7 @@ namespace Tyuiu.NikiforovFA.Sprint2.Task5.V7.Test
         public void FindMonthNameValid()
         {
             int x = 5;
-            Assert.AreEqual(ds.FindMonthName(1990, x), "Май");
+            Assert.AreEqual(ds.FindMonthName(1990, x), "май");
         }
     }
 }
