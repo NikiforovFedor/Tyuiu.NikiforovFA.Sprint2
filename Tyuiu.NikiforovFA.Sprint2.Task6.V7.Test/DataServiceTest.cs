@@ -9,7 +9,7 @@ namespace Tyuiu.NikiforovFA.Sprint2.Task6.V7.Test
         {
             DataService ds = new DataService();
             int x = 5;
-            Assert.AreEqual(ds.FindMonthName(1990, x), "μΰι");
+            Assert.AreEqual(ds.FindMonthName(1990, x), "θώνό");
         }
     }
 }
