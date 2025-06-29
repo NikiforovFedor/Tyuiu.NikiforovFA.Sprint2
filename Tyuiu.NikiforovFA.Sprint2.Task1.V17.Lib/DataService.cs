@@ -14,7 +14,7 @@ namespace Tyuiu.NikiforovFA.Sprint2.Task1.V17.Lib
             res[2] = (a + b) < (c + d) || false;
             res[3] = (a + b + 529) > (c + d) && true;
             res[4] = !((a + b + 529) <= (c + d));
-            res[5] = (a + b) >= (c + d) ^ false;
+            res[5] = (a + b) >= (c + d) ^ true; //false
             return res;
         }
     }

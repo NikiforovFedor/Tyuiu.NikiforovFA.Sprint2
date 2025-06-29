@@ -4,7 +4,7 @@ namespace Tyuiu.NikiforovFA.Sprint2.Task5.V7.Lib
 {
     public class DataService : ISprint2Task5V7
     {
-        public string FindMonthName(int startYear, int n)
+        public string FindMonthName1(int startYear, int n)
         {
             string m = "";
             if (n > 12)

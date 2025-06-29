@@ -14,10 +14,9 @@ namespace Tyuiu.NikiforovFA.Sprint2.Task0.V3.Lib
             res[3] = x + 200 > y;
             res[4] = (x + 83) <= y;
             res[5] = (x + 82) >= y;
-            return res;
-
-
-
+            res.
+            return 
+            ;
         }
     }
 }
