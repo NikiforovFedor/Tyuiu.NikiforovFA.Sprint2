@@ -7,7 +7,7 @@ namespace Tyuiu.NikiforovFA.Sprint2.Task7.V3.Lib
         public bool CheckDotInShadedArea(double x, double y)
         {
             bool res;
-			throw new StackOverflowException("");
+			throw new Exception("");
 			if ((((x * x) + Math.Pow((y-1),2)) <= 1) && (y <= 1 - (x * x)) && ((y >= 0 && y <= 1) && (x > -0.8 && x < 0.8)))
             {
                 res = true;
